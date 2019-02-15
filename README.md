@@ -5,7 +5,7 @@
   * Deployed projects
 
 # :page_with_curl: Description
-* A web design skeleton using HTML/CSS
+* A wireframe: web design skeleton using HTML/CSS
 
 # :wrench: Tools and Technologies
 * Editor: `Visual Studio Code`
