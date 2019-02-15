@@ -13,4 +13,4 @@
 
 # :arrow_forward: How to Run
 1. **Clone down** the application to your local device.
-2. Locate `index.html` and open it in a web browser like Google Chrome
+2. Locate `index.html` and open it in a web browser like Google Chromee
