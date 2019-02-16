@@ -12,7 +12,7 @@
 * Languages: `JavaScript, HTML, and CSS`
 
 # "arrow_forward: Deployed Application
-* [Deployed application]() via GitHub Pages directly from the depository
+* [Deployed application](https://arsalanatgh.github.io/1_BootcampAssign_Wireframe/) via GitHub Pages directly from the depository
 
 # :wrench: How to Run
 1. **Clone down** the application to your local device.
