@@ -5,7 +5,9 @@
   * Deployed projects
 
 # :page_with_curl: Description
-* A wireframe template: web design skeleton using HTML and CSS
+* A wireframe template: web design skeleton using HTML and CSS (screenshot given below)
+
+<img src="Docs/Images/main_page.png" width="600" height="500">
 
 # :nut_and_bolt: Tools and Technologies
 * Editor: `Visual Studio Code`
